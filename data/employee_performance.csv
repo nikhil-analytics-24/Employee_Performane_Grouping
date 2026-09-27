@@ -1,0 +1,502 @@
+Employee_ID,Department,Education,Job_Level,City,Age,Experience,Salary,Performance_Score,Working_Hours,Training_Hours,Satisfaction_Score
+EMP0001,Finance,Graduate,Junior,Noida,24,2.55,51727.01,63.77,35.23,24.52,7.85
+EMP0002,Customer Support,Graduate,Mid Level,Mumbai,33,7.97,59216.02,65.06,42.68,20.54,7.58
+EMP0003,Sales,Graduate,Senior,Chennai,31,7.1,70302.54,70.31,40.99,22.42,6.7
+EMP0004,Operations,Post Graduate,Senior,Pune,33,9.91,88892.99,81.66,45.41,26.67,8.1
+EMP0005,IT,Graduate,Senior,Hyderabad,35,13.52,83487.53,82.83,38.6,26.07,7.08
+EMP0006,IT,Graduate,Senior,Hyderabad,32,6.52,64912.15,70.06,37.9,14.63,7.33
+EMP0007,IT,Post Graduate,Senior,Mumbai,30,5.45,52360.95,60.02,39.28,16.32,7.93
+EMP0008,Customer Support,Post Graduate,Senior,Delhi,26,4.04,47164.16,58.87,40.02,24.31,7.69
+EMP0009,Operations,Post Graduate,Junior,Pune,28,2.79,44677.09,55.99,37.23,19.55,6.99
+EMP0010,Sales,Post Graduate,Mid Level,Hyderabad,24,2.28,35287.28,50.38,35.24,16.97,5.99
+EMP0011,IT,Graduate,Junior,Mumbai,26,4.69,46961.13,60.37,40.88,15.43,7.62
+EMP0012,Customer Support,Graduate,Lead,Noida,34,12.53,92321.76,70.86,42.78,18.44,7.52
+EMP0013,Sales,Post Graduate,Lead,Hyderabad,30,10.44,72616.76,72.29,37.57,14.92,5.77
+EMP0014,HR,Post Graduate,Junior,Kolkata,29,5.29,45436.48,60.76,42.38,20.53,7.73
+EMP0015,HR,Diploma,Senior,Pune,39,20,136914.67,99.16,46.28,25.46,8.57
+EMP0016,HR,Diploma,Lead,Pune,25,4.9,42836.43,60.02,38.84,16.94,8.08
+EMP0017,Finance,Graduate,Junior,Kolkata,33,14.21,107502.68,86.01,41.49,25.21,7.25
+EMP0018,Operations,Post Graduate,Mid Level,Bangalore,39,16.02,114447.28,94.15,43.36,28.4,5.88
+EMP0019,Marketing,Post Graduate,Lead,Noida,32,9.3,61076.07,78.53,37.38,32.51,8.1
+EMP0020,Finance,Graduate,Junior,Kolkata,27,4.66,46442.22,56.96,38.48,14.21,7.23
+EMP0021,Operations,Graduate,Senior,Chennai,27,5.73,67170.11,56.98,32.69,24.89,5.72
+EMP0022,IT,Graduate,Mid Level,Chennai,29,7.98,61451.27,62.37,41.85,25.12,6.39
+EMP0023,Finance,Post Graduate,Lead,Mumbai,27,2.84,38786.87,53.66,33.48,16.54,9.13
+EMP0024,Finance,Post Graduate,Lead,Pune,26,3.79,51588.35,57.62,42.35,21.19,6.73
+EMP0025,Marketing,Post Graduate,Lead,Bangalore,27,3.59,52715.47,54.36,37.15,17.95,7.49
+EMP0026,Sales,Graduate,Mid Level,Bangalore,31,9.69,75822.57,65.33,39.31,22.5,6.8
+EMP0027,HR,Graduate,Senior,Hyderabad,37,13.45,91992.15,80.41,39.28,30.51,6.25
+EMP0028,Marketing,Graduate,Senior,Hyderabad,36,10.66,94936.96,79.25,39.39,26.69,7.74
+EMP0029,Operations,Diploma,Mid Level,Kolkata,36,12.26,105781.09,86.38,44.65,27.58,7.88
+EMP0030,IT,Post Graduate,Senior,Bangalore,27,4.42,59598.05,58.14,31.36,18.74,6.81
+EMP0031,Operations,Post Graduate,Junior,Kolkata,29,5.89,58561.13,62.15,42.34,15.25,7.07
+EMP0032,IT,Post Graduate,Mid Level,Noida,29,6.16,53453.58,58.72,39.79,19.74,7.26
+EMP0033,IT,Post Graduate,Junior,Kolkata,32,9.27,69479.81,72.82,36.4,27.93,7.54
+EMP0034,Customer Support,Graduate,Junior,Hyderabad,27,4.77,56132.53,56.58,35.42,14.07,6.01
+EMP0035,Customer Support,Post Graduate,Junior,Pune,35,11.86,92073.03,84.27,45.25,20.95,8.39
+EMP0036,Sales,Post Graduate,Senior,Kolkata,39,15.78,121551.82,78.36,39.09,24.61,6.29
+EMP0037,Finance,Post Graduate,Mid Level,Delhi,31,9.54,83078.06,72.16,36.63,19.05,5.99
+EMP0038,IT,Graduate,Senior,Pune,27,5.73,45330.99,65.77,41.9,18.67,7.9
+EMP0039,Sales,Graduate,Junior,Bangalore,24,4.17,58210.48,62.7,39.2,19.59,7.62
+EMP0040,Marketing,Diploma,Mid Level,Bangalore,23,3.59,37602.31,77.4,35.45,18.47,7.81
+EMP0041,IT,Post Graduate,Mid Level,Kolkata,22,1.65,33625.19,56.6,38.1,16.29,5.87
+EMP0042,Marketing,Graduate,Senior,Pune,30,6.27,62142.49,59.11,36.01,23.45,6.55
+EMP0043,IT,Graduate,Mid Level,Hyderabad,27,6.06,76773.02,66.19,41.9,16.69,7.11
+EMP0044,Customer Support,Graduate,Senior,Hyderabad,35,11.46,112900.16,68.67,43.41,15.97,6.13
+EMP0045,HR,Graduate,Lead,Chennai,28,4.97,58146.8,62.53,39.98,18.73,6.61
+EMP0046,Operations,Graduate,Senior,Bangalore,26,6.48,59380.75,60.53,39.96,23.82,7.64
+EMP0047,Finance,Diploma,Junior,Mumbai,33,8.43,76332.16,78.22,44.46,23.29,8.91
+EMP0048,Operations,Graduate,Junior,Chennai,34,9.45,83926.63,70.72,39.83,20.87,7.2
+EMP0049,Operations,Graduate,Senior,Hyderabad,32,10.75,80399.15,76.19,36.92,23.89,8.39
+EMP0050,HR,Post Graduate,Junior,Pune,32,7.96,83794.04,66.97,40.65,15.07,5.84
+EMP0051,Customer Support,Graduate,Senior,Noida,24,2.96,44215.68,69.92,43.73,24.57,7.98
+EMP0052,Sales,Post Graduate,Mid Level,Hyderabad,32,9,78595.27,70.93,36.86,24.3,6.93
+EMP0053,Customer Support,Graduate,Lead,Pune,25,4.75,57220.16,75.38,37.41,21.93,7.99
+EMP0054,Customer Support,Graduate,Senior,Chennai,33,13.79,102159.95,90.83,42.3,30.37,8.11
+EMP0055,Operations,Post Graduate,Lead,Bangalore,29,7.26,72097.82,72.38,39.03,18.52,8.66
+EMP0056,Customer Support,Graduate,Mid Level,Hyderabad,31,8.23,64444.27,73.03,36.72,27.66,6.96
+EMP0057,IT,Diploma,Senior,Kolkata,42,20,127564.44,100,46.14,28.62,9.13
+EMP0058,HR,Diploma,Mid Level,Pune,31,10.85,74217.71,63.23,46.75,20.04,6.92
+EMP0059,IT,Post Graduate,Mid Level,Bangalore,31,8.9,78347.25,71.01,40.22,22.7,7.41
+EMP0060,Finance,Graduate,Senior,Noida,30,6.6,68872.44,73.28,36.45,22.76,7.53
+EMP0061,Finance,Post Graduate,Senior,Noida,26,3.13,48133.59,58.09,33.6,25.34,6.43
+EMP0062,HR,Graduate,Lead,Mumbai,30,6.32,74225.85,57.37,39.62,16.02,6.99
+EMP0063,Sales,Diploma,Senior,Pune,26,4.14,49048.34,60.24,41.33,17.79,7.04
+EMP0064,Finance,Diploma,Mid Level,Chennai,42,16.81,121064.67,100,43.37,32.15,8.85
+EMP0065,Finance,Graduate,Mid Level,Mumbai,30,8.97,65316.63,80.79,39.68,22.16,8
+EMP0066,Operations,Graduate,Senior,Mumbai,37,13.52,94237.19,83.49,39.41,28.63,8.69
+EMP0067,IT,Graduate,Junior,Delhi,30,4.88,59613.85,69.68,35.41,29.34,8.28
+EMP0068,Sales,Graduate,Junior,Hyderabad,28,4.33,57330.06,59.12,40.64,19.03,6.22
+EMP0069,IT,Post Graduate,Mid Level,Pune,33,10.28,79245.63,63.99,42.64,24.24,7.92
+EMP0070,Customer Support,Graduate,Mid Level,Mumbai,26,4.03,47208.17,53.76,33.88,15.06,5.98
+EMP0071,Sales,Graduate,Mid Level,Delhi,31,5.47,43131.48,73.88,43.09,26.32,8.09
+EMP0072,HR,Post Graduate,Junior,Chennai,37,17.24,113771.86,91.4,43.78,27.25,8.8
+EMP0073,IT,Graduate,Junior,Bangalore,27,5.6,65022.61,63.27,42.6,23.28,5.67
+EMP0074,Sales,Graduate,Junior,Kolkata,25,2.68,46433.02,55.25,34.05,17.36,7.06
+EMP0075,Sales,Post Graduate,Lead,Kolkata,27,2,42238.65,68.91,33.78,15.76,7.16
+EMP0076,Sales,Post Graduate,Mid Level,Pune,26,2.45,40775.65,67.8,37.32,24.22,6.84
+EMP0077,Sales,Diploma,Mid Level,Mumbai,35,13.95,100187.15,100,42.59,19.75,9.75
+EMP0078,IT,Post Graduate,Senior,Kolkata,27,5.08,49089.12,61.47,43.55,19.8,6.59
+EMP0079,Finance,Graduate,Junior,Hyderabad,42,20,137890.04,100,44.98,31.76,7.99
+EMP0080,IT,Graduate,Lead,Kolkata,37,15.88,114445.71,79.88,41.08,25.15,7.94
+EMP0081,Customer Support,Graduate,Senior,Kolkata,44,19.45,132209.1,100,39.96,35.79,9.25
+EMP0082,Operations,Post Graduate,Junior,Kolkata,33,12.43,87415.39,72.93,44.17,27.23,7.45
+EMP0083,Finance,Graduate,Mid Level,Noida,36,9.98,61535.67,75.4,37.29,20.96,8.68
+EMP0084,IT,Graduate,Senior,Delhi,29,4.23,59638.6,53.98,42.83,19.82,7.25
+EMP0085,Finance,Graduate,Lead,Mumbai,32,7.15,61072.32,63.78,38.35,21.29,5.53
+EMP0086,Finance,Graduate,Mid Level,Hyderabad,33,10.54,75408.49,70.3,44.61,16.33,7.03
+EMP0087,Sales,Diploma,Senior,Mumbai,35,12.02,95980.64,76.66,42.51,20.04,7.29
+EMP0088,Operations,Diploma,Junior,Noida,23,3.34,41260.4,54.54,37.62,17.57,7.29
+EMP0089,Customer Support,Diploma,Lead,Pune,28,6.38,69044.02,63.08,37.46,13.21,5.16
+EMP0090,Marketing,Graduate,Junior,Pune,31,6.82,68130.83,73.61,38.09,23.44,9.71
+EMP0091,IT,Diploma,Lead,Pune,32,6.66,68770.99,59.76,40.2,19.76,7.51
+EMP0092,Sales,Graduate,Senior,Chennai,24,3.65,34943.05,60,38.31,14.11,7.24
+EMP0093,Sales,Graduate,Senior,Kolkata,40,18.23,132676.94,100,40.81,29.62,9.64
+EMP0094,Operations,Graduate,Mid Level,Chennai,29,6.25,61951.22,62.49,38.41,24.11,9.09
+EMP0095,Sales,Post Graduate,Junior,Delhi,24,3.82,44337.75,54.55,38.37,20.73,7.6
+EMP0096,Marketing,Graduate,Junior,Pune,43,18.47,124670.34,95.15,36.58,25.83,9.31
+EMP0097,Operations,Graduate,Junior,Noida,37,15.88,94731.85,97.19,43.05,29.86,8.65
+EMP0098,Marketing,Graduate,Junior,Hyderabad,30,7.78,71338.01,71.4,36.59,25.57,7.49
+EMP0099,IT,Graduate,Senior,Mumbai,24,1.98,29881.8,50.84,34.37,20.38,6.42
+EMP0100,IT,Diploma,Mid Level,Kolkata,27,5.37,44733.6,66.24,33.89,18.63,6.77
+EMP0101,IT,Graduate,Junior,Bangalore,25,2.31,27402.97,47.34,32.67,19.63,6.14
+EMP0102,Operations,Graduate,Lead,Hyderabad,32,9.57,86440.76,79.78,36.08,29.14,6.86
+EMP0103,Finance,Graduate,Lead,Kolkata,27,5.14,49329.54,65.6,36.56,19.42,7.31
+EMP0104,Marketing,Diploma,Lead,Chennai,29,7.05,77111.01,66.82,44.58,30.42,5.97
+EMP0105,Customer Support,Diploma,Lead,Chennai,41,17.59,113784.09,88.17,40.8,23.77,8.37
+EMP0106,HR,Graduate,Junior,Hyderabad,31,4.91,38148.49,55.15,38.97,20.06,6.89
+EMP0107,Marketing,Graduate,Mid Level,Chennai,33,9.34,66485.75,76.68,40.92,21.11,7.87
+EMP0108,Sales,Graduate,Senior,Pune,36,10.92,94893.95,87.13,40.64,26.58,7.76
+EMP0109,HR,Graduate,Senior,Delhi,34,13.72,97135.56,80.11,40.9,17.45,10
+EMP0110,IT,Graduate,Junior,Mumbai,30,6.75,58754.95,70.09,35.68,20.43,8.65
+EMP0111,Finance,Diploma,Senior,Delhi,27,6.34,62271.2,51.68,42.96,14.93,5.73
+EMP0112,IT,Post Graduate,Junior,Kolkata,26,6.25,65075.85,62.24,43.94,21.74,7.33
+EMP0113,Customer Support,Graduate,Junior,Mumbai,30,8.84,82319.41,72.93,34.94,27.1,7.19
+EMP0114,Sales,Diploma,Mid Level,Noida,41,15.52,120624.87,83.88,38.79,27.68,7.26
+EMP0115,Operations,Post Graduate,Mid Level,Mumbai,31,6.08,55783.91,58.67,38.04,11.07,6
+EMP0116,Customer Support,Post Graduate,Mid Level,Delhi,25,1.02,20921.49,47.15,34.61,26.66,7
+EMP0117,Sales,Diploma,Junior,Hyderabad,32,11.6,84383.72,81.15,41.9,25.79,7.38
+EMP0118,HR,Graduate,Senior,Mumbai,30,7.45,68113.09,67.79,37.2,19.1,8.22
+EMP0119,Customer Support,Post Graduate,Mid Level,Noida,33,9.58,68493.41,57.93,45.94,21.06,7.74
+EMP0120,Operations,Post Graduate,Junior,Noida,26,2.38,31463.46,40.67,41.05,18.02,7.41
+EMP0121,Sales,Graduate,Lead,Noida,24,5.15,57304.87,59.16,39.14,17.98,6.4
+EMP0122,Customer Support,Graduate,Lead,Delhi,32,11.08,84081.57,81.2,43.2,25.41,8.29
+EMP0123,Finance,Graduate,Senior,Mumbai,26,3.06,44144,38.73,41.01,14.54,6.74
+EMP0124,IT,Graduate,Senior,Bangalore,33,9.33,70367.47,69.72,38.22,20.93,7.13
+EMP0125,HR,Graduate,Senior,Hyderabad,26,7.02,61669.26,63.99,36.82,18.77,6.68
+EMP0126,Marketing,Graduate,Mid Level,Pune,27,4.49,42877.53,70.57,38.56,16.97,8.83
+EMP0127,Sales,Graduate,Junior,Mumbai,28,4.26,57282.81,58.82,40.69,21.17,7.23
+EMP0128,Customer Support,Post Graduate,Mid Level,Noida,28,3.67,54750.89,62.77,38.49,23.64,7.74
+EMP0129,IT,Diploma,Mid Level,Bangalore,32,7.43,51258.23,68.69,34.81,24.42,6.85
+EMP0130,Marketing,Graduate,Mid Level,Pune,32,7.94,60795.88,54.62,37.13,23.11,5.95
+EMP0131,Marketing,Post Graduate,Senior,Pune,27,5.72,44447.34,68.95,38.51,23.71,7.02
+EMP0132,HR,Post Graduate,Mid Level,Kolkata,23,3.52,39913.66,60.09,37.84,18.69,7.03
+EMP0133,IT,Graduate,Junior,Mumbai,31,9.18,75325.92,76.86,45.28,27.19,6.86
+EMP0134,Finance,Graduate,Junior,Delhi,37,11.71,76541.63,100,36.63,22.57,8.73
+EMP0135,Customer Support,Diploma,Senior,Mumbai,36,10.12,71657.51,60.4,41.45,17.27,5.75
+EMP0136,Finance,Graduate,Junior,Bangalore,44,19.88,122790.89,100,47.13,24.14,7.71
+EMP0137,Marketing,Graduate,Senior,Pune,30,6.42,62555.99,64.47,45.29,25.93,7.75
+EMP0138,Sales,Graduate,Mid Level,Mumbai,38,14.7,104638.25,89.26,40.28,29.84,8.75
+EMP0139,Finance,Graduate,Mid Level,Delhi,27,4.77,46595.35,61.42,39.81,23,6.85
+EMP0140,Customer Support,Graduate,Mid Level,Kolkata,27,4.29,50671.52,58.09,39.88,24.74,6.21
+EMP0141,Customer Support,Diploma,Senior,Mumbai,34,7.7,62255.67,65.16,39.86,18.21,6.49
+EMP0142,HR,Graduate,Mid Level,Hyderabad,38,16.48,110515.46,93.75,41.67,28.27,8.13
+EMP0143,Marketing,Graduate,Senior,Kolkata,32,6,72840,55.81,40.02,19.54,7.45
+EMP0144,Finance,Graduate,Mid Level,Delhi,25,2.38,51706.35,62.38,30.62,24.62,8.06
+EMP0145,Finance,Diploma,Mid Level,Bangalore,37,11.59,77183.35,75.61,42.39,23.15,7.3
+EMP0146,IT,Post Graduate,Senior,Pune,27,6.84,70942.27,60.13,39.41,19.28,6.19
+EMP0147,Operations,Graduate,Senior,Mumbai,33,8.51,78363.62,68.98,38.93,24.58,7.69
+EMP0148,Marketing,Graduate,Senior,Delhi,26,4.43,40697.38,69.36,44.06,25.99,6.76
+EMP0149,IT,Post Graduate,Senior,Kolkata,28,7.66,75085.44,66.34,37.41,19.27,6.97
+EMP0150,HR,Graduate,Senior,Hyderabad,26,2.64,53939.75,60.37,36.66,20.62,8.22
+EMP0151,Customer Support,Diploma,Senior,Delhi,43,18.38,112903.62,90.51,48.09,22.06,8.88
+EMP0152,HR,Graduate,Senior,Chennai,34,12.78,85793.53,87.01,38.5,15.67,8.33
+EMP0153,IT,Graduate,Senior,Noida,27,7.46,75740.37,74.52,37.7,24.22,6.69
+EMP0154,Marketing,Post Graduate,Senior,Hyderabad,34,11.42,89082.1,92.04,40.01,29,8.55
+EMP0155,Customer Support,Graduate,Senior,Kolkata,28,4.77,56378.18,61.31,40.79,22.08,7.99
+EMP0156,HR,Diploma,Senior,Bangalore,37,12.47,94879.33,86.46,41.32,17.76,7.84
+EMP0157,Operations,Graduate,Junior,Pune,31,5.84,60923.96,65.83,35.13,20.45,8.47
+EMP0158,Sales,Graduate,Lead,Kolkata,28,5.59,45384.44,72.44,37.19,14.17,8.67
+EMP0159,HR,Graduate,Senior,Noida,31,3.84,55991.38,55.5,36.45,25.47,8.3
+EMP0160,Sales,Graduate,Junior,Bangalore,33,9.11,84921.02,79.15,39.52,19.9,8.12
+EMP0161,Finance,Graduate,Senior,Mumbai,30,7.27,63802.48,67.01,40.37,27.08,7.85
+EMP0162,Operations,Post Graduate,Junior,Delhi,35,14.96,104654.13,87.34,42.66,29.5,9.29
+EMP0163,Operations,Graduate,Mid Level,Chennai,26,3.54,32648.28,58.7,33.09,16.96,7.49
+EMP0164,Operations,Graduate,Senior,Hyderabad,31,9.14,79112.41,75.28,42.72,19.02,7.28
+EMP0165,IT,Diploma,Junior,Hyderabad,38,13.46,103159.81,83.7,41.74,26.47,7.67
+EMP0166,Sales,Graduate,Senior,Delhi,44,20,131061.38,100,46.88,24.62,8.8
+EMP0167,Finance,Graduate,Senior,Chennai,29,8.02,79218.01,82.23,40.65,25.21,6.95
+EMP0168,HR,Graduate,Mid Level,Delhi,29,5.77,54321.56,71.37,41.82,20.91,7.42
+EMP0169,IT,Graduate,Junior,Mumbai,32,7.9,74208.08,76.62,40.68,16.67,8.63
+EMP0170,Operations,Graduate,Mid Level,Noida,40,14.32,93004.07,82.31,45.06,15.89,6.18
+EMP0171,Operations,Graduate,Senior,Bangalore,39,14.31,101454.18,79.95,42.76,25.3,9.09
+EMP0172,IT,Post Graduate,Lead,Kolkata,31,6.68,61555.84,73.64,38.73,21.01,8.56
+EMP0173,Marketing,Diploma,Senior,Hyderabad,37,14.18,103049.38,92.15,47.62,24.37,7.92
+EMP0174,HR,Graduate,Mid Level,Mumbai,31,7.07,60764.61,78.02,41.61,26.83,8.24
+EMP0175,Operations,Graduate,Senior,Bangalore,37,11.35,85112.74,74.41,42.01,28.09,7.65
+EMP0176,IT,Post Graduate,Mid Level,Mumbai,30,9.74,85973.79,73.72,36.35,22.18,8.68
+EMP0177,Sales,Diploma,Senior,Chennai,28,5.63,53169.3,52.61,35.08,18.11,7.65
+EMP0178,Finance,Graduate,Junior,Hyderabad,25,3.93,34721.75,56.28,39,22.13,5.84
+EMP0179,Customer Support,Post Graduate,Senior,Kolkata,37,13.65,112731.03,92.66,41.5,21.25,8.86
+EMP0180,IT,Post Graduate,Mid Level,Delhi,41,15.73,121834.45,87.51,40,26.64,8.04
+EMP0181,Finance,Post Graduate,Lead,Delhi,31,9.02,63843.82,76.52,40.1,25.98,7.83
+EMP0182,IT,Graduate,Mid Level,Bangalore,25,7.06,70909.16,67.18,43.57,24.81,6.76
+EMP0183,Customer Support,Graduate,Senior,Kolkata,25,3.24,39467.82,60.24,39.92,13.1,8.51
+EMP0184,Customer Support,Graduate,Lead,Noida,38,13.46,99106.79,76.16,37.84,20.66,8.61
+EMP0185,HR,Post Graduate,Junior,Pune,33,8.43,73497.13,72.19,39.22,19.48,7.01
+EMP0186,Operations,Graduate,Lead,Chennai,30,6.13,57091.08,44.49,36.58,18.41,5.45
+EMP0187,Sales,Graduate,Senior,Bangalore,34,11.52,80850.23,77.36,39.37,25.85,7.49
+EMP0188,Operations,Graduate,Junior,Pune,23,2.85,36158.34,45.46,36.7,24.17,6.91
+EMP0189,Operations,Post Graduate,Mid Level,Mumbai,28,3.71,38742.69,67.34,36.78,20.14,7.63
+EMP0190,HR,Graduate,Senior,Chennai,26,4.66,44320.54,66.78,34.88,20.03,8.44
+EMP0191,IT,Graduate,Junior,Mumbai,37,9.57,77500.11,77.56,39.51,28.56,8.44
+EMP0192,Customer Support,Graduate,Mid Level,Noida,32,7.95,62146.81,80.32,37.82,25.64,8.72
+EMP0193,Customer Support,Graduate,Mid Level,Kolkata,32,10.2,85723.21,69.64,31.86,27.61,7.85
+EMP0194,Operations,Graduate,Senior,Hyderabad,35,12.96,107288.24,96.04,46.64,28.44,7.35
+EMP0195,Finance,Diploma,Junior,Chennai,33,10.41,77136.69,82.55,43.17,20.23,7.81
+EMP0196,Finance,Graduate,Senior,Pune,41,18.59,126660.7,95.52,41.52,21.86,9.35
+EMP0197,Sales,Graduate,Lead,Noida,38,12.95,99168.42,91.07,40.94,20.19,8.29
+EMP0198,Customer Support,Graduate,Lead,Hyderabad,30,6.67,65561.32,59.51,35.72,23.36,7.54
+EMP0199,Customer Support,Graduate,Senior,Delhi,27,5.13,54197.59,57.34,43.29,25.08,6.7
+EMP0200,Sales,Graduate,Junior,Pune,34,6.79,69212.08,63.54,44.35,28.83,6.36
+EMP0201,Operations,Graduate,Senior,Bangalore,34,10.61,86493.85,73.49,40.62,26.6,7.53
+EMP0202,IT,Diploma,Junior,Delhi,30,5.48,46269.54,55.81,41.51,24.7,7.16
+EMP0203,IT,Graduate,Junior,Noida,33,10.77,91706.15,86.52,40.72,23.25,7.63
+EMP0204,Customer Support,Diploma,Mid Level,Delhi,34,10.1,86930.45,74.35,36.29,18.76,7.53
+EMP0205,Operations,Diploma,Mid Level,Bangalore,28,3.89,40978.25,61.92,37.01,24.55,6.46
+EMP0206,IT,Post Graduate,Senior,Chennai,32,12.82,95277.02,78.54,41.21,25.81,8.72
+EMP0207,IT,Graduate,Senior,Delhi,36,8.84,80067.84,60.22,38.38,21.27,6.89
+EMP0208,Operations,Post Graduate,Mid Level,Kolkata,44,18.1,119585.29,97.47,41.82,29.09,9.74
+EMP0209,IT,Graduate,Mid Level,Pune,29,7.08,74271.17,55.43,38.87,21.27,8.15
+EMP0210,IT,Graduate,Lead,Hyderabad,27,5.96,79386.8,66.38,38.56,27.08,7.31
+EMP0211,Operations,Post Graduate,Mid Level,Delhi,27,3.57,39101.99,49.04,38.22,24.01,5.88
+EMP0212,Sales,Graduate,Mid Level,Pune,27,3.53,34209.45,72.06,35.09,25.15,5.98
+EMP0213,Operations,Graduate,Junior,Mumbai,36,11.99,92153.39,86.93,38.59,29.03,7.02
+EMP0214,HR,Graduate,Senior,Pune,41,17.12,122295.24,94.48,38.54,29.06,7.4
+EMP0215,Sales,Graduate,Senior,Hyderabad,31,6.73,60642.26,75.84,41.76,21.81,8.81
+EMP0216,HR,Post Graduate,Junior,Pune,32,6.48,73165.65,61.53,33.05,24.1,7.34
+EMP0217,Finance,Post Graduate,Junior,Bangalore,32,7.47,55401.77,71.92,42.47,17.37,7.86
+EMP0218,Sales,Post Graduate,Senior,Noida,34,13.3,102615.99,85.53,44.87,29.61,6.28
+EMP0219,Operations,Diploma,Senior,Hyderabad,30,3.91,42435.05,61.46,37.33,16.29,6.23
+EMP0220,Customer Support,Post Graduate,Mid Level,Noida,35,8.22,84248.09,80.92,32.18,25.71,8.74
+EMP0221,Operations,Post Graduate,Lead,Chennai,41,12.14,107282.52,87.2,39.63,22.32,8.42
+EMP0222,Operations,Graduate,Junior,Noida,30,9.5,70133.33,75.59,39.67,25.82,7.61
+EMP0223,IT,Diploma,Mid Level,Mumbai,24,0.73,27453.86,40.15,34.39,17.09,6.83
+EMP0224,Finance,Post Graduate,Lead,Bangalore,29,10.44,89523.42,70.36,38.69,16.29,8.84
+EMP0225,HR,Graduate,Mid Level,Chennai,34,9.56,73538.35,73.09,44.15,24.84,7.39
+EMP0226,HR,Post Graduate,Senior,Pune,37,14.7,103169.56,87.77,43.27,23.49,8.23
+EMP0227,Customer Support,Diploma,Mid Level,Hyderabad,43,16.39,112295.75,83.48,39.33,28.55,8.2
+EMP0228,Finance,Post Graduate,Mid Level,Mumbai,36,14.3,85980.36,100,36.82,28.01,10
+EMP0229,Customer Support,Graduate,Lead,Bangalore,27,7.49,65704.17,79.6,38.33,25.91,6.23
+EMP0230,Operations,Graduate,Mid Level,Chennai,24,2.3,33325.26,59.71,37.09,16.92,7.67
+EMP0231,Sales,Graduate,Lead,Chennai,25,6.45,56926.28,66.6,40.32,19.63,7.27
+EMP0232,Marketing,Post Graduate,Junior,Mumbai,32,7.35,77915.52,68.19,37.71,20.44,7.91
+EMP0233,Operations,Graduate,Junior,Kolkata,36,17,104960.95,85.44,43.53,28.81,7.55
+EMP0234,Marketing,Graduate,Junior,Pune,28,4.46,57519.1,62.51,43.76,27.96,7.11
+EMP0235,HR,Graduate,Senior,Mumbai,22,2.91,39877.56,59.1,40.16,17.42,7.63
+EMP0236,Sales,Post Graduate,Mid Level,Chennai,28,5.5,53805.64,55.16,38.51,24.24,9.42
+EMP0237,Finance,Graduate,Senior,Delhi,31,4.62,58677.42,64.73,37.87,12.97,7.96
+EMP0238,IT,Post Graduate,Mid Level,Bangalore,26,2.71,45292.43,56.23,36.81,15.34,6.31
+EMP0239,Operations,Graduate,Lead,Mumbai,28,6.82,67547.44,54.37,42.35,15.95,6.51
+EMP0240,IT,Graduate,Junior,Kolkata,30,7.52,75650.4,63.82,37.5,16.08,6.92
+EMP0241,Customer Support,Graduate,Senior,Chennai,26,2.6,37564.37,53.57,37.91,13.31,5.43
+EMP0242,Customer Support,Graduate,Senior,Pune,30,5.94,52532.68,77.88,38.92,25.67,7.56
+EMP0243,Customer Support,Post Graduate,Senior,Noida,25,4.43,40688,64.46,36.92,20.75,7.9
+EMP0244,Finance,Graduate,Senior,Chennai,26,1.8,30289.12,44.85,33.7,19.59,5.55
+EMP0245,IT,Graduate,Senior,Pune,25,7.66,93233.53,74.96,40.2,26.25,8.53
+EMP0246,Customer Support,Post Graduate,Senior,Mumbai,30,8.11,79608.75,60.56,39.26,21.96,7.52
+EMP0247,Marketing,Graduate,Junior,Pune,26,4.43,38970.64,68,39.73,24.87,6.84
+EMP0248,Customer Support,Graduate,Junior,Hyderabad,37,12.75,81950.71,78.04,39.33,23.77,7.72
+EMP0249,Customer Support,Post Graduate,Lead,Hyderabad,30,7.26,68703.58,68.08,42.6,17.51,8.67
+EMP0250,Customer Support,Graduate,Senior,Hyderabad,25,4.57,55269.5,71.29,35.92,27.06,8.19
+EMP0251,Finance,Diploma,Senior,Kolkata,24,2.48,45507.18,47.84,42.54,16.25,6.59
+EMP0252,Finance,Post Graduate,Mid Level,Kolkata,32,8.36,69243.79,61.31,34.61,17.29,7.03
+EMP0253,Customer Support,Graduate,Junior,Delhi,32,9.54,75426.56,69.99,41.08,21.89,7.55
+EMP0254,Finance,Graduate,Junior,Kolkata,27,5.31,58350.3,71.09,39.92,19.14,7.14
+EMP0255,IT,Diploma,Senior,Noida,30,7.81,69632.03,59.33,37.11,19.01,5.43
+EMP0256,Operations,Post Graduate,Mid Level,Mumbai,41,16.39,93573.7,70.07,43.1,23.99,9.1
+EMP0257,Customer Support,Graduate,Junior,Chennai,34,11.67,85613.87,76.2,44.08,25.11,7.82
+EMP0258,Sales,Graduate,Mid Level,Chennai,24,1.37,27488.24,56.94,31.2,16.66,7.41
+EMP0259,Operations,Post Graduate,Junior,Delhi,32,4.53,52292.32,70.11,39.77,20.67,7.46
+EMP0260,IT,Post Graduate,Mid Level,Kolkata,27,6.63,88136.34,65.72,32.01,26.13,6.84
+EMP0261,Operations,Graduate,Mid Level,Noida,27,7.5,69337.54,66.41,36.55,23.94,7.25
+EMP0262,Customer Support,Graduate,Senior,Pune,32,7.9,65308.48,77.9,43.93,32.32,6.49
+EMP0263,IT,Graduate,Mid Level,Delhi,31,9.2,84010.26,60.96,38.13,25.69,8.98
+EMP0264,Marketing,Post Graduate,Mid Level,Noida,29,6.76,66651.38,64.8,35.74,26.24,6.36
+EMP0265,Customer Support,Diploma,Junior,Pune,29,7.25,68123.9,70,38.62,17.05,6.69
+EMP0266,Sales,Graduate,Junior,Noida,34,12.01,95176.95,83.97,46.39,28.17,7.63
+EMP0267,Sales,Post Graduate,Mid Level,Pune,35,8.45,89021.04,69.3,34.41,22.26,8.57
+EMP0268,Sales,Post Graduate,Mid Level,Bangalore,28,3.33,35313.03,58.07,35.06,18.25,7.1
+EMP0269,Finance,Graduate,Senior,Noida,32,7.64,71683.44,52.35,43.48,20.1,5.76
+EMP0270,Finance,Post Graduate,Mid Level,Chennai,27,6.64,54584.23,61.7,44.19,24.89,8.12
+EMP0271,Sales,Diploma,Senior,Hyderabad,22,1.79,41608.61,58.26,37.25,22.49,7.65
+EMP0272,Sales,Post Graduate,Senior,Kolkata,25,7.86,60678.26,62.49,35.89,17.74,7.68
+EMP0273,Customer Support,Diploma,Senior,Pune,25,3.64,42237.16,59.43,43.96,23.67,7.6
+EMP0274,Customer Support,Graduate,Junior,Bangalore,37,12.1,87298.52,83.53,45.1,22.48,9.89
+EMP0275,Marketing,Post Graduate,Mid Level,Noida,33,9.13,83186.9,71.43,41.64,23.72,9.28
+EMP0276,Marketing,Diploma,Junior,Chennai,26,3.21,51901.24,60.08,35.69,19.6,6.61
+EMP0277,Sales,Graduate,Junior,Hyderabad,35,11.8,78381.03,72.32,40.4,22.14,8.89
+EMP0278,Operations,Post Graduate,Lead,Pune,36,14.82,104782.56,86.07,41,28.56,8.44
+EMP0279,Sales,Post Graduate,Junior,Noida,30,6.16,53588.05,69.49,39.77,18.35,7.88
+EMP0280,Sales,Graduate,Mid Level,Noida,31,6.61,51280.64,67.09,43.05,29.86,5.99
+EMP0281,Customer Support,Graduate,Senior,Pune,31,11.18,83138.76,74.01,42.82,16.04,7.49
+EMP0282,Finance,Graduate,Senior,Delhi,38,14.23,99307.24,87.39,38.25,23.34,7.57
+EMP0283,Finance,Graduate,Mid Level,Delhi,27,2.18,59921.44,62.38,41.51,22.71,7.84
+EMP0284,IT,Graduate,Junior,Chennai,26,3.47,50032.31,44.94,38.92,20.43,7.37
+EMP0285,Operations,Graduate,Mid Level,Hyderabad,30,5.56,44456.26,71.36,40.59,22.44,5.89
+EMP0286,IT,Post Graduate,Mid Level,Pune,35,5.94,54398.92,62.47,42.89,21.02,7.15
+EMP0287,Marketing,Graduate,Junior,Chennai,34,11,93288.1,81.54,37.19,26.32,8.89
+EMP0288,Operations,Graduate,Mid Level,Chennai,38,14.27,119168.81,95.87,41.18,26.33,8.37
+EMP0289,Finance,Graduate,Junior,Mumbai,36,14.85,91669.83,76.91,39.97,29.42,8.36
+EMP0290,Operations,Post Graduate,Junior,Noida,26,2.14,22387.63,49.32,33.25,22.24,7.04
+EMP0291,IT,Graduate,Mid Level,Kolkata,28,4.27,66407.54,60.26,39.25,24.34,7.39
+EMP0292,IT,Graduate,Junior,Noida,26,3.11,47787.15,52.87,44.96,15.65,6.54
+EMP0293,Sales,Graduate,Mid Level,Delhi,26,4.94,45897.6,74.19,33.33,23.04,6.78
+EMP0294,Finance,Graduate,Senior,Hyderabad,28,4.26,54630.56,55.31,38.19,18.75,6.04
+EMP0295,IT,Diploma,Senior,Noida,35,9.12,53307.59,67.52,41.53,18.13,7.95
+EMP0296,Operations,Post Graduate,Junior,Pune,34,9.74,77888.95,76.11,40.27,25.14,7.76
+EMP0297,Sales,Post Graduate,Junior,Chennai,32,7.19,67784.68,60.11,38.84,18.67,7.01
+EMP0298,HR,Graduate,Junior,Pune,29,6.8,70351.68,65.14,35.4,24.35,7.02
+EMP0299,Operations,Graduate,Senior,Mumbai,30,5.71,48313.25,66.08,39.37,17.61,7.11
+EMP0300,IT,Post Graduate,Senior,Hyderabad,30,6.13,60894.05,63.41,36.72,28.29,8.11
+EMP0301,IT,Post Graduate,Junior,Chennai,37,16.29,105134.18,89.96,35.75,22.61,8.08
+EMP0302,Operations,Graduate,Lead,Pune,34,10.54,84208.99,73.17,43.51,24.05,6.51
+EMP0303,Operations,Graduate,Junior,Delhi,27,5.84,50010.96,53.67,41.44,22.83,7.42
+EMP0304,Operations,Graduate,Mid Level,Kolkata,28,6.72,58715.57,69.06,39.16,20.15,7.31
+EMP0305,Sales,Graduate,Senior,Mumbai,33,9.23,67140.9,85.05,40.41,28.72,8.12
+EMP0306,Customer Support,Post Graduate,Senior,Hyderabad,27,3.21,49085.32,58.79,40.97,15.67,8.33
+EMP0307,Marketing,Post Graduate,Senior,Mumbai,28,7.79,75209.14,71.95,39.96,28.76,7.56
+EMP0308,Finance,Post Graduate,Senior,Delhi,35,10.22,79104.29,80.64,42.6,24.57,8.12
+EMP0309,Sales,Graduate,Mid Level,Hyderabad,34,9.5,77328.3,65.26,39.02,19.36,6.38
+EMP0310,HR,Diploma,Senior,Mumbai,26,4.32,37304.29,71.98,41.97,21.76,7.38
+EMP0311,Marketing,Post Graduate,Junior,Bangalore,25,4.85,50066.42,63.6,39.35,24.68,7.74
+EMP0312,IT,Post Graduate,Lead,Delhi,24,1.63,36355.64,65.75,38.03,19.5,6.11
+EMP0313,IT,Diploma,Mid Level,Delhi,33,10.82,106858.27,74.14,36.69,20.35,7.87
+EMP0314,Customer Support,Post Graduate,Senior,Delhi,43,20,121418.28,100,43.8,27.11,8.73
+EMP0315,Sales,Post Graduate,Mid Level,Bangalore,26,3.94,60507.8,66.53,35.85,17.27,7.45
+EMP0316,Sales,Graduate,Senior,Bangalore,32,12.91,103194.73,87.24,39.09,32.98,9.03
+EMP0317,Marketing,Graduate,Mid Level,Pune,41,19.06,128921.16,99.98,40.44,25.73,8.96
+EMP0318,IT,Graduate,Senior,Chennai,28,5.37,71192.75,63.24,35.63,24.71,8.47
+EMP0319,IT,Diploma,Junior,Kolkata,31,6.73,66455.88,75.85,44.97,24.49,6.88
+EMP0320,HR,Graduate,Junior,Mumbai,30,8.3,73583.13,72.29,43.22,19.07,7.66
+EMP0321,Operations,Post Graduate,Junior,Pune,36,9.33,75316.3,59.86,45.18,20.75,7.1
+EMP0322,Sales,Diploma,Junior,Mumbai,28,8.55,82456.91,64.73,36.14,24.79,6.48
+EMP0323,Operations,Graduate,Senior,Kolkata,31,5.63,65843.83,63.8,38.89,20.73,8.03
+EMP0324,HR,Graduate,Junior,Chennai,33,10.13,74512.06,77.41,36.42,28.71,9.7
+EMP0325,Customer Support,Graduate,Lead,Bangalore,30,5.71,45365.34,63.23,36.77,25.47,7.26
+EMP0326,Sales,Post Graduate,Mid Level,Chennai,32,8.88,72063.01,80.95,37.09,28.25,8.38
+EMP0327,Operations,Graduate,Junior,Bangalore,32,7.04,57055.95,53.7,42.58,17.83,6.88
+EMP0328,Operations,Graduate,Senior,Kolkata,24,1.98,36968.61,56.11,36.48,15.78,6.42
+EMP0329,Marketing,Post Graduate,Senior,Chennai,35,13.95,110442.61,73.39,44.17,20.76,6.13
+EMP0330,HR,Graduate,Mid Level,Pune,31,4.93,48886.16,67.58,40.17,22.95,6.84
+EMP0331,Finance,Graduate,Mid Level,Hyderabad,37,14.7,104029.25,86.53,47.86,27.76,6.95
+EMP0332,Sales,Graduate,Senior,Pune,36,12.63,93762.01,84.96,36.65,16.61,9.5
+EMP0333,IT,Diploma,Junior,Mumbai,34,8.15,77921.07,65.31,42.97,21.72,7.18
+EMP0334,IT,Graduate,Lead,Pune,31,9.61,59165.37,81.86,43.09,25.37,7.66
+EMP0335,IT,Graduate,Lead,Kolkata,34,10.26,76501.66,82.96,37.35,23.82,8.76
+EMP0336,IT,Graduate,Senior,Delhi,28,6.36,63195.61,70.5,41.73,27.86,6.6
+EMP0337,Customer Support,Post Graduate,Junior,Mumbai,29,6.55,71105.9,66.53,39.9,23.66,6.75
+EMP0338,Sales,Graduate,Senior,Chennai,33,9.98,75326.18,79.05,39.36,29.47,7.92
+EMP0339,Marketing,Graduate,Junior,Mumbai,27,7.09,48315.69,61.8,36.82,20.26,8.03
+EMP0340,IT,Graduate,Junior,Hyderabad,27,5.64,62930.11,70.88,36.68,26.51,7.98
+EMP0341,Marketing,Diploma,Mid Level,Bangalore,30,4.37,44721.77,72.3,44.05,29.55,7.74
+EMP0342,Marketing,Graduate,Mid Level,Chennai,34,9.03,64261.14,79.6,39.71,29.57,7.95
+EMP0343,IT,Graduate,Senior,Noida,28,4.83,48107.33,56.88,40.64,15.87,7.29
+EMP0344,Marketing,Post Graduate,Senior,Mumbai,35,11.47,85495.19,81.46,38.23,23.65,8.14
+EMP0345,Finance,Diploma,Senior,Chennai,34,12.01,85238.03,70.98,38.42,21.4,6.73
+EMP0346,Operations,Graduate,Mid Level,Chennai,35,9.57,58221.87,76.75,42.9,25.77,7.77
+EMP0347,Operations,Diploma,Mid Level,Chennai,33,10.69,90468.25,80.85,36.43,27.3,7.12
+EMP0348,IT,Post Graduate,Mid Level,Bangalore,33,9.58,88968.18,62.15,38.71,17.83,7.27
+EMP0349,Finance,Graduate,Lead,Noida,36,11.12,91294.1,70.52,40.43,22.96,7.13
+EMP0350,Operations,Graduate,Junior,Kolkata,32,10.86,74016.26,74.74,40.57,15.37,9.71
+EMP0351,Marketing,Diploma,Senior,Pune,35,8.76,71247.16,69.99,39.13,28.37,7.48
+EMP0352,Customer Support,Post Graduate,Mid Level,Chennai,33,12.72,92947.03,73.68,41.92,21.21,6.5
+EMP0353,Operations,Graduate,Mid Level,Delhi,33,6.5,66111.21,69.66,40.89,22.76,7.37
+EMP0354,IT,Post Graduate,Senior,Kolkata,27,4.45,57148.74,63.68,40.39,20.22,7.66
+EMP0355,IT,Graduate,Mid Level,Hyderabad,27,4.31,44474.08,59.25,35.53,25.25,8.46
+EMP0356,Operations,Graduate,Senior,Bangalore,25,5.94,58817.88,59.89,37.99,9.43,6.65
+EMP0357,IT,Diploma,Lead,Mumbai,24,1.77,41391.39,62.37,40.88,21.16,5.92
+EMP0358,Operations,Graduate,Mid Level,Bangalore,29,8.11,81765.78,83.16,41.94,24.54,8.66
+EMP0359,Customer Support,Graduate,Mid Level,Mumbai,32,10.33,86600.13,73.25,36.26,21.37,6.57
+EMP0360,Operations,Diploma,Mid Level,Bangalore,35,11.91,95883.67,76.4,41.56,30.66,7.39
+EMP0361,Finance,Post Graduate,Lead,Mumbai,27,2.29,40562.85,59.49,32.15,17.16,6.97
+EMP0362,Operations,Graduate,Junior,Chennai,28,4.4,62092.27,59.7,38.45,23.83,7.05
+EMP0363,Marketing,Graduate,Senior,Pune,35,11.28,89560.64,77.88,45.7,25.44,8.3
+EMP0364,Operations,Graduate,Senior,Mumbai,27,6.38,53071.92,70.82,36.26,27.79,7.03
+EMP0365,Customer Support,Graduate,Senior,Noida,31,10.21,91873.81,63.42,37.73,18.75,7.05
+EMP0366,Finance,Graduate,Junior,Mumbai,30,3.1,49985.76,67.73,40.07,19.26,7.4
+EMP0367,Customer Support,Graduate,Senior,Delhi,36,14.61,99058.78,87.11,37.06,30.06,8.34
+EMP0368,Customer Support,Graduate,Lead,Mumbai,29,2.93,38038.52,54.32,36.11,21.48,7
+EMP0369,HR,Post Graduate,Junior,Delhi,23,0.5,32260.89,51.01,38.82,13,7.1
+EMP0370,IT,Post Graduate,Junior,Hyderabad,31,7.97,73708.61,70.38,37.62,20.51,8.22
+EMP0371,IT,Graduate,Lead,Chennai,33,8.09,72061.48,58.64,38.77,22.1,7.38
+EMP0372,IT,Graduate,Junior,Delhi,31,5.28,58415.18,74.23,40.67,26.71,8.02
+EMP0373,IT,Graduate,Senior,Pune,32,9.38,91525.27,75.31,40.99,20.84,6.43
+EMP0374,Sales,Graduate,Mid Level,Kolkata,32,9.53,86234.38,78,40.6,12.38,7.85
+EMP0375,IT,Diploma,Junior,Chennai,32,8.96,76518.86,79.6,38.74,26.42,8.28
+EMP0376,Finance,Graduate,Senior,Delhi,29,5.22,63100.24,56.86,39.6,15.35,7.56
+EMP0377,Customer Support,Post Graduate,Mid Level,Chennai,29,4.61,42065.19,64.36,38.04,13.52,6.75
+EMP0378,IT,Graduate,Mid Level,Noida,29,5.57,60656.88,62.68,39.95,9.95,6.68
+EMP0379,Sales,Diploma,Mid Level,Chennai,28,4.22,64906.58,67.98,36.87,25.49,7
+EMP0380,Finance,Graduate,Mid Level,Chennai,39,13.04,93884.21,68,40.4,22.75,7.84
+EMP0381,IT,Graduate,Junior,Hyderabad,30,5.87,51610.49,63.75,35.99,20.57,8.13
+EMP0382,Sales,Graduate,Mid Level,Pune,31,7.84,62835.18,65.28,39.26,27.31,6.99
+EMP0383,Operations,Diploma,Lead,Bangalore,31,11.26,76505.51,80.79,38.11,27.09,8.68
+EMP0384,Customer Support,Diploma,Mid Level,Bangalore,22,4.09,41453.01,63.19,35.11,27.84,7.39
+EMP0385,Sales,Post Graduate,Senior,Delhi,27,2.85,39239.91,52.16,38.58,13.82,6.7
+EMP0386,Sales,Graduate,Mid Level,Chennai,27,4.23,37629.08,54.9,38.86,19.74,6.74
+EMP0387,Finance,Graduate,Senior,Delhi,30,8.34,71432.44,70.45,41.69,16.21,8.09
+EMP0388,IT,Graduate,Junior,Hyderabad,32,8.02,77671.52,64.77,38.2,20.74,7.57
+EMP0389,Sales,Diploma,Lead,Hyderabad,32,8.95,66412.71,78,40.83,23.05,9.63
+EMP0390,Sales,Graduate,Mid Level,Mumbai,32,6.74,75544.46,65.61,40.56,24.32,6.64
+EMP0391,Customer Support,Post Graduate,Junior,Noida,24,1.01,36447.44,35,38.55,16.48,6.53
+EMP0392,Marketing,Post Graduate,Junior,Hyderabad,28,6.61,70558.48,64.91,36.67,24.18,6.91
+EMP0393,Finance,Post Graduate,Junior,Mumbai,37,12.08,85168.55,72.91,41.04,25.94,6.91
+EMP0394,Sales,Graduate,Mid Level,Pune,36,13.78,106486.67,74.03,42.15,31.94,7.63
+EMP0395,Finance,Graduate,Mid Level,Delhi,32,7.55,57920.89,59.82,39.28,19.51,7.21
+EMP0396,Customer Support,Graduate,Senior,Kolkata,30,8.03,76217.7,71.74,33.57,19.15,9.98
+EMP0397,Customer Support,Graduate,Mid Level,Pune,32,10.1,80860.28,84.98,40.48,26.28,7.95
+EMP0398,Marketing,Post Graduate,Junior,Hyderabad,37,13.57,102654.18,86.89,47.26,22.43,7.18
+EMP0399,Sales,Diploma,Senior,Pune,30,7.17,54875.73,63.2,38.14,27.3,7.47
+EMP0400,Sales,Diploma,Senior,Pune,34,10.02,72109.57,78.01,37.97,22.91,6.19
+EMP0401,IT,Graduate,Junior,Noida,28,5.08,59801.4,60.24,39.57,18.58,7.04
+EMP0402,Customer Support,Diploma,Junior,Noida,22,3.14,35147.07,52.55,38.82,17.57,6.83
+EMP0403,Marketing,Graduate,Junior,Noida,28,5.41,59501.38,56.05,41.96,22.96,7.55
+EMP0404,Sales,Graduate,Senior,Pune,40,15.24,95218.94,75.36,38.05,22.93,8.52
+EMP0405,Finance,Graduate,Senior,Hyderabad,33,10.14,87867.42,73.59,42.09,20.68,7.21
+EMP0406,Customer Support,Post Graduate,Mid Level,Kolkata,26,3.35,33793.87,58.84,39.66,27.25,6.94
+EMP0407,Finance,Post Graduate,Senior,Chennai,35,10.4,86702.64,76.09,39.72,20.27,7.13
+EMP0408,IT,Graduate,Senior,Pune,25,3.52,51930.59,56.63,39,20.34,6.08
+EMP0409,Customer Support,Graduate,Mid Level,Mumbai,29,8.88,67128.24,65.4,42.55,24.38,7.53
+EMP0410,IT,Graduate,Senior,Hyderabad,27,3.99,53986.48,64.95,40.64,15.17,6.27
+EMP0411,Finance,Graduate,Junior,Pune,25,3.22,46902.62,49.29,34.77,20.79,6.41
+EMP0412,Customer Support,Graduate,Junior,Kolkata,38,16.61,108666.19,97.01,44.28,23.24,7.73
+EMP0413,Customer Support,Graduate,Mid Level,Chennai,29,5.86,48788.73,57.2,38.58,23.59,7.45
+EMP0414,Operations,Graduate,Junior,Noida,34,10.04,62729.9,68.82,40.21,18.54,8.89
+EMP0415,Operations,Graduate,Mid Level,Hyderabad,30,7.34,68376.62,58.62,39.41,23.32,6.01
+EMP0416,Marketing,Graduate,Lead,Bangalore,27,3.71,33383.16,54.94,37.69,24.31,5.44
+EMP0417,Finance,Graduate,Junior,Chennai,33,6.24,61218.52,72.83,42.21,26.56,7.49
+EMP0418,Finance,Post Graduate,Junior,Mumbai,26,3.73,45096.05,63.05,37.88,22.35,7.26
+EMP0419,Operations,Post Graduate,Mid Level,Pune,44,20,137002.71,100,39.87,27.07,8.88
+EMP0420,Sales,Diploma,Lead,Kolkata,33,11.03,82363.87,81.4,39.21,22.35,7.61
+EMP0421,Sales,Post Graduate,Mid Level,Bangalore,29,7.26,62553.04,60.53,39.68,26.78,6.96
+EMP0422,Sales,Graduate,Mid Level,Kolkata,32,9.74,84463.7,72.9,43.36,20.32,7.87
+EMP0423,IT,Post Graduate,Junior,Bangalore,33,10.64,86492.42,71.8,41.88,18.78,8.38
+EMP0424,Marketing,Post Graduate,Junior,Hyderabad,34,10.66,85512.13,86.53,37.82,28.24,6.62
+EMP0425,IT,Graduate,Lead,Bangalore,38,10.41,86424.04,68.39,47.08,19.13,7.05
+EMP0426,Operations,Diploma,Lead,Mumbai,32,9.97,66047.16,80.49,40.73,20.69,8.08
+EMP0427,Marketing,Graduate,Junior,Mumbai,30,7.61,73396.55,76.1,42.85,17.92,6.97
+EMP0428,Customer Support,Graduate,Lead,Delhi,39,15.93,114892.16,100,41.35,26.07,10
+EMP0429,Finance,Graduate,Senior,Mumbai,32,7.89,60320.25,66.52,40.86,21.64,6.84
+EMP0430,IT,Graduate,Senior,Chennai,31,7.38,64633.31,73.66,41.57,24.23,7.59
+EMP0431,IT,Diploma,Mid Level,Bangalore,33,7.93,69189.6,86.15,42.79,29.31,8.56
+EMP0432,Sales,Post Graduate,Mid Level,Mumbai,26,8.25,69345.02,66.55,42.44,24.09,6.86
+EMP0433,Operations,Post Graduate,Mid Level,Hyderabad,21,2.3,42036.71,45.45,40.13,17.42,5.04
+EMP0434,IT,Graduate,Senior,Kolkata,26,4.2,62320.28,48.65,37.38,17.96,6.34
+EMP0435,IT,Graduate,Junior,Noida,32,6.74,72544.87,72.94,37.42,25.17,8.47
+EMP0436,Sales,Graduate,Junior,Kolkata,22,2.22,27973.84,41.72,38.6,22.6,6.12
+EMP0437,IT,Diploma,Mid Level,Delhi,24,7.26,71325.88,66.34,41.79,22.45,6.65
+EMP0438,Sales,Post Graduate,Senior,Kolkata,32,8.19,81464.59,74.77,38.83,21.58,8.45
+EMP0439,Sales,Diploma,Junior,Bangalore,27,3.05,46719.87,59.43,40.9,16.73,6.8
+EMP0440,IT,Graduate,Senior,Delhi,26,4.86,62863.16,66.22,42.53,16.14,6.91
+EMP0441,IT,Graduate,Lead,Bangalore,35,14.08,118607.38,88.6,38.66,28.61,8.38
+EMP0442,Customer Support,Graduate,Junior,Hyderabad,31,9.8,86510.39,84.44,37.6,27.51,8.72
+EMP0443,Finance,Graduate,Senior,Delhi,33,9.49,79412.76,67.61,39.45,24.48,9.32
+EMP0444,Finance,Post Graduate,Mid Level,Pune,35,13.16,105249.84,79.31,41.81,23.76,8.51
+EMP0445,Sales,Graduate,Senior,Chennai,28,4.25,50938.26,55.6,36.81,25.64,7.89
+EMP0446,Customer Support,Diploma,Junior,Chennai,21,3.05,42947.39,63.66,41.7,19.52,6.82
+EMP0447,Customer Support,Diploma,Senior,Bangalore,33,12.21,87379.44,86.94,41.85,29.47,7.33
+EMP0448,Sales,Post Graduate,Senior,Kolkata,28,6.85,76498.82,71.66,39.17,22.74,7.63
+EMP0449,Finance,Post Graduate,Lead,Noida,27,4.18,42734.72,68.48,34.23,19.89,7.6
+EMP0450,IT,Graduate,Senior,Noida,24,2.29,53234.41,48.82,34,21.16,5.86
+EMP0451,Sales,Graduate,Mid Level,Pune,33,7.98,73321.45,82.29,40.18,26.45,7.85
+EMP0452,Operations,Graduate,Senior,Delhi,26,6.39,48574.24,75.97,32.95,25.1,8.15
+EMP0453,Marketing,Graduate,Senior,Pune,29,5.76,60474.77,70.08,41.56,22.94,7.77
+EMP0454,Customer Support,Post Graduate,Mid Level,Pune,25,1.29,18000,64.62,36.94,21.48,7.73
+EMP0455,IT,Graduate,Junior,Kolkata,43,15.81,115860.15,78.88,50.82,33.75,7.95
+EMP0456,Marketing,Graduate,Lead,Noida,25,2.67,48824.41,53.84,44.26,24.43,6.39
+EMP0457,IT,Graduate,Senior,Delhi,30,6.1,54975.19,60.05,38.32,23.7,6.71
+EMP0458,Marketing,Diploma,Senior,Hyderabad,25,5.5,57054.82,69.16,38.35,22.9,6.53
+EMP0459,IT,Graduate,Junior,Kolkata,28,9.96,96700.44,69.3,42.77,26.5,8.86
+EMP0460,IT,Post Graduate,Senior,Pune,27,2.31,36008.77,61.03,42.46,23.06,7.12
+EMP0461,IT,Diploma,Mid Level,Pune,32,9.31,67702.34,82.55,35.21,24.96,7.88
+EMP0462,Operations,Graduate,Senior,Hyderabad,33,8,81424.24,76.18,34.4,22.5,7.07
+EMP0463,Sales,Graduate,Junior,Pune,25,4.71,68784.49,65.39,36.67,21.45,9.71
+EMP0464,Operations,Graduate,Senior,Pune,33,9.12,74710.06,66.22,41.37,9.24,6.47
+EMP0465,Customer Support,Graduate,Lead,Pune,34,7.25,73157.15,63.15,40.57,22.21,6.88
+EMP0466,Finance,Graduate,Junior,Chennai,42,17.84,132112.44,100,45.35,26.05,8.97
+EMP0467,Finance,Post Graduate,Lead,Kolkata,30,6.39,54859.59,71.26,35.56,29.2,8.09
+EMP0468,Customer Support,Graduate,Mid Level,Mumbai,27,3.83,42675.03,59.19,31.66,20.73,7.94
+EMP0469,HR,Graduate,Senior,Kolkata,29,9.36,86264.09,71.63,42.21,18.14,8.98
+EMP0470,Customer Support,Graduate,Senior,Hyderabad,32,5.92,71984.66,52.01,36.46,19.16,7.23
+EMP0471,IT,Graduate,Mid Level,Pune,29,7.16,70345.56,61.18,33.5,16.83,6.38
+EMP0472,Customer Support,Post Graduate,Senior,Kolkata,27,3.07,35355.3,70.66,38.33,24.61,7.34
+EMP0473,IT,Post Graduate,Senior,Chennai,30,10.04,97418.82,67.92,42.23,23.39,7.64
+EMP0474,Customer Support,Graduate,Mid Level,Noida,26,5.36,50205.38,64.59,38.26,25.46,8.96
+EMP0475,Operations,Diploma,Mid Level,Hyderabad,34,8.35,67811.81,78.02,38.22,20.88,6.72
+EMP0476,Customer Support,Graduate,Senior,Bangalore,42,20,133779.87,91.92,42.55,26.68,9.31
+EMP0477,IT,Graduate,Senior,Kolkata,32,6.17,73609.99,68.14,37.81,16.81,7.6
+EMP0478,Operations,Diploma,Senior,Bangalore,34,10.8,90652.68,84.5,36.47,28.02,8.79
+EMP0479,Customer Support,Graduate,Senior,Pune,26,6.43,63814.79,66.69,36.93,24.08,7.32
+EMP0480,Operations,Graduate,Mid Level,Chennai,30,4.75,55890.96,82.53,39.89,26.84,7.33
+EMP0481,Operations,Graduate,Senior,Chennai,36,14.34,102170.56,74.61,42.2,23.44,8.26
+EMP0482,Sales,Post Graduate,Junior,Kolkata,26,1.81,41765.11,62.56,38.01,22.92,7.75
+EMP0483,Marketing,Diploma,Mid Level,Hyderabad,35,12.33,70040.92,78.29,37.91,30.51,8.64
+EMP0484,Operations,Diploma,Junior,Hyderabad,22,1.64,33256.84,59.52,36.98,19.57,7.11
+EMP0485,Operations,Post Graduate,Mid Level,Chennai,35,11.65,89849.24,82.74,34.4,25.45,7.6
+EMP0486,Customer Support,Graduate,Mid Level,Hyderabad,35,7.23,54668.09,62.42,39.67,16.89,5.95
+EMP0487,IT,Graduate,Mid Level,Chennai,28,3.84,51560.11,61.79,42.15,17.65,7.8
+EMP0488,Finance,Graduate,Senior,Kolkata,28,5.58,55218.31,51.13,34.55,19.59,7.15
+EMP0489,Customer Support,Graduate,Mid Level,Mumbai,36,10.48,96297.57,81.94,38.5,29.16,7.22
+EMP0490,Customer Support,Post Graduate,Mid Level,Chennai,43,19.21,140132.9,100,43.68,26.97,8.22
+EMP0491,Marketing,Post Graduate,Junior,Bangalore,26,2.38,35802.01,60.32,41.22,19.91,6.72
+EMP0492,Operations,Graduate,Mid Level,Hyderabad,25,4,46725.82,67.54,36.94,20.53,6.25
+EMP0493,HR,Graduate,Junior,Chennai,26,2.88,41496.45,59.94,35.93,18.65,6.49
+EMP0494,HR,Graduate,Junior,Chennai,31,6.4,56557.97,66.99,33.41,23.24,6.56
+EMP0495,Marketing,Graduate,Senior,Kolkata,33,11.82,90523.99,73.89,40.84,17.31,7.32
+EMP0496,Finance,Diploma,Senior,Hyderabad,28,2.61,35086.57,51.31,43.5,24.36,6.12
+EMP0497,Operations,Post Graduate,Senior,Mumbai,30,7.12,54620.98,75.62,39.91,20.95,6.42
+EMP0498,IT,Diploma,Mid Level,Kolkata,33,11.61,93997.48,89.96,40.42,29.08,9.91
+EMP0499,Customer Support,Post Graduate,Mid Level,Mumbai,31,5.53,60972.44,62.82,39.56,16.23,8.22
+EMP0500,Customer Support,Graduate,Senior,Noida,30,8.04,61852.71,70.16,39.38,25.3,6.89
+EMP0501,Customer Support,Graduate,Senior,Noida,31,8.04,61823.71,70.16,39.38,25.3,6.89
