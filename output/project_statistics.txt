@@ -1,0 +1,25 @@
+EMPLOYEE PERFORMANCE GROUPING
+============================================================
+
+Total Employees: 501
+Number of Clusters: 3
+Algorithm: Agglomerative Hierarchical Clustering
+Linkage: Average Linkage
+Method: Unsupervised Machine Learning
+
+Overall Statistics
+------------------------------------------------------------
+Average Age: 30.90
+Average Experience: 8.07
+Average Salary: 70028.57
+Average Performance Score: 70.00
+Average Working Hours: 39.54
+Average Training Hours: 22.43
+Average Satisfaction Score: 7.50
+
+Cluster Summary
+------------------------------------------------------------
+ Cluster  Employees  Average_Age  Average_Experience  Average_Salary  Average_Performance  Average_Working_Hours  Average_Training_Hours  Average_Satisfaction
+       1         18    42.222222           19.063333   128510.385000            98.317222              43.179444               26.918333              8.968889
+       2        369    29.005420            6.181192    59815.547805            64.488808              38.991409               21.148049              7.242412
+       3        114    35.228070           12.456228    93852.532281            83.366491              40.747982               25.892018              8.094211
